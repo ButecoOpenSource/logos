@@ -16,7 +16,7 @@ Você não pode distribuir este material modificado.
 
 LICENSE
 
-You are allowed to sharing this material when refering to and only to Buteco Tecnoloógico.
+You are allowed to share this material when refering to and only to Buteco Tecnoloógico.
 
 You must give appropriate credit when sharing the material.
 
